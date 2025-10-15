@@ -3,6 +3,10 @@
 
 ---
 
+## 🔗 Project Files
+- [SQL Script: clinical_simulation.sql](https://github.com/abigailcabadin/clinical-trial-simulation-part1/blob/main/clinical_simulation.sql)  
+- [R Script: clin_trial_sim.R](https://github.com/abigailcabadin/clinical-trial-simulation-part1/blob/main/clin_trial_sim.R)  
+
 ## 1. Introduction
 Clinical trials generate complex datasets that must be carefully structured, validated, and analyzed to ensure reliable insights into safety and efficacy. This project simulates a mid‑sized clinical trial using synthetic data generated in **R** and stored in a **MySQL relational database**.  
 
@@ -210,4 +214,4 @@ Part 1 of the ClinicalSim Capstone successfully demonstrated:
 - **Validation queries** to ensure data integrity  
 - **Analysis queries** to extract clinical insights  
 
-The findings suggest Drug
+
